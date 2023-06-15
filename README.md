@@ -8,9 +8,9 @@
    <td align="center"><a href="https://github.com/sronger"><img src="https://avatars.githubusercontent.com/u/79131091?v=4" width="120px;" alt=""/><br /><sub><b>김준태</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/EunJung516"><img src="https://avatars.githubusercontent.com/u/65918936?v=4" width="120px;" alt=""/><br /><sub><b>조은정</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/roasted-penguin"><img src="https://avatars.githubusercontent.com/u/43606521?v=4" width="120px;" alt=""/><br /><sub><b>권순우</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/u/79131091?v=4" width="120px;" alt=""/><br /><sub><b>정인희</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/u/79131091?v=4" width="120px;" alt=""/><br /><sub><b>백건우</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/u/79131091?v=4" width="120px;" alt=""/><br /><sub><b>이진호</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/inh2613"><img src="https://avatars.githubusercontent.com/u/62206617?v=4" width="120px;" alt=""/><br /><sub><b>정인희</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/gwbaik9717"><img src="https://avatars.githubusercontent.com/u/94460569?v=4" width="120px;" alt=""/><br /><sub><b>백건우</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/binary-h0"><img src="https://avatars.githubusercontent.com/u/50613940?v=4" width="120px;" alt=""/><br /><sub><b>이진호</b></sub></a><br /></td>
   </tr>
 </table>
 
